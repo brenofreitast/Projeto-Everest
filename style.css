@@ -1,0 +1,10 @@
+body{
+    background-color: #181818; 
+
+}
+
+section div.conteudo{
+    margin: 0 auto;
+    background-color: #f59b9b;
+    width: 80%;
+}
