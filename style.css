@@ -1,0 +1,56 @@
+:root {
+    --cor-fundo: #f3eeee;
+    --cor-caixa: #2c2c2c;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    margin: 0;
+    padding: 0;
+}
+
+.everest-cx {
+    background-color: var(--cor-caixa);
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.everest-img {
+    width: 99%;
+    height: 95%;
+    object-fit: cover;
+}
+
+.btts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.base-btt{
+    padding: 8px;
+    margin: 15px 8px 15px 15px;
+}
+
+.camp1{
+    padding: 8px;
+    margin: 15px 8px 15px 15px;
+}
+
+.camp2{
+    padding: 8px;
+    margin: 15px 8px 15px 15px;
+}
+
+.camp3{
+    padding: 8px;
+    margin: 15px 8px 15px 15px;
+}
+
+.camp4{
+    padding: 8px;
+    margin: 15px 8px 15px 15px;
+}
